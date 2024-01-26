@@ -1,0 +1,5 @@
+{
+  "number_of_tables": 7,
+  "table_capacity": 4,
+  "input_file_path": "path/to/your/input/file.txt"
+}
