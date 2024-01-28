@@ -22,7 +22,7 @@ Your input file must have one person per line with the format 'firstname, name'<
 Organization is outputed in the terminal and svaed in org_colleagues.txt
 
 ## Installation
-git clone git@github.com:audeha/BXL-Bouman-7.git </p>
+git clone git@github.com:audeha/Openspace_Organizer.git </p>
 cd openspace-organizer
 
 ## Usage
