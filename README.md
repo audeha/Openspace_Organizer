@@ -22,12 +22,12 @@ Your input file must have one person per line with the format 'firstname, name'<
 Organization is outputed in the terminal and svaed in org_colleagues.txt
 
 ## Installation
-git clone git@github.com:audeha/Openspace_Organizer.git </p>
-cd openspace-organizer
+`git clone git@github.com:audeha/Openspace_Organizer.git`  </p>
+`cd openspace-organizer`
 
 ## Usage
-python3 main.py path/to/your/input/file.{txt|csv} </p>
-You can use ./colleagues.txt --> python3 main.py ./colleagues.txt </p>
+`python3 main.py path/to/your/input/file.{txt|csv}` </p>
+You can use ./colleagues.txt --> ``python3 main.py ./colleagues.txt ``</p>
 [![asciicast](https://asciinema.org/a/AL7hAfqAg3JRLNugD7tdKn2LF.svg)](https://asciinema.org/a/AL7hAfqAg3JRLNugD7tdKn2LF)
 
 ## Visuals
